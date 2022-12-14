@@ -27,4 +27,4 @@ jobs:
 
     - name: Test
 
-      run: cd /home/runner/work/gha/gha/Unit-Testing-rds-aurora-postgres/;go test -timeout 1h -v
+      run: cd /home/runner/work/gha/gha/unittesting-terratest/;go test -timeout 1h -v
