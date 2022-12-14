@@ -19,7 +19,7 @@ jobs:
     - name: Cd
       run: cd /home/runner/work/gha/gha
     - name: Build
-      run: go mod init Unit-Testing-rds-aurora-postgres
+      run: go mod init unittesting-terratest
  
     - name: Build2
 
